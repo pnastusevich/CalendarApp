@@ -1,0 +1,69 @@
+/* Calendar */
+"calendar.title" = "Календарь тренировок";
+"calendar.today" = "Сегодня";
+"calendar.select.day" = "Выберите день для просмотра тренировок";
+
+/* Weekdays */
+"weekday.mon" = "Пн";
+"weekday.tue" = "Вт";
+"weekday.wed" = "Ср";
+"weekday.thu" = "Чт";
+"weekday.fri" = "Пт";
+"weekday.sat" = "Сб";
+"weekday.sun" = "Вс";
+
+/* Workout List */
+"workout.list.no.workouts" = "Нет тренировок в этот день";
+
+/* Workout Detail */
+"workout.detail.title" = "Детали тренировки";
+"workout.detail.statistics" = "Статистика";
+"workout.detail.distance" = "Дистанция";
+"workout.detail.distance.km" = "%.2f км";
+"workout.detail.duration" = "Длительность";
+"workout.detail.temperature" = "Температура";
+"workout.detail.temperature.celsius" = "%@°C";
+"workout.detail.humidity" = "Влажность";
+"workout.detail.humidity.percent" = "%@%%";
+"workout.detail.heart.rate.chart" = "График пульса";
+"workout.detail.speed.chart" = "График скорости";
+"workout.detail.route" = "Маршрут";
+"workout.detail.comment" = "Комментарий";
+"workout.detail.error" = "Ошибка: %@";
+"workout.detail.heart.rate.max" = "Макс: %d уд/мин";
+"workout.detail.heart.rate.min" = "Мин: %d уд/мин";
+"workout.detail.heart.rate.avg" = "Сред: %d уд/мин";
+"workout.detail.speed.max" = "Макс: %.1f км/ч";
+"workout.detail.speed.min" = "Мин: %.1f км/ч";
+"workout.detail.speed.avg" = "Сред: %.1f км/ч";
+
+/* Onboarding */
+"onboarding.back" = "Назад";
+"onboarding.next" = "Далее";
+"onboarding.start" = "Начать";
+"onboarding.slide1.title" = "Календарь тренировок";
+"onboarding.slide1.description" = "Просматривайте все ваши тренировки в удобном календарном формате. Дни с тренировками отмечены специальными индикаторами.";
+"onboarding.slide2.title" = "Детальная статистика";
+"onboarding.slide2.description" = "Отслеживайте детальную информацию о каждой тренировке: дистанцию, длительность, пульс и многое другое.";
+
+/* Map */
+"map.start" = "Старт";
+"map.finish" = "Финиш";
+
+/* Profile */
+"profile.title" = "Профиль";
+"profile.personal.info" = "Персональная информация";
+"profile.name" = "Имя";
+"profile.email" = "Email";
+"profile.phone" = "Телефон";
+"profile.date.of.birth" = "Дата рождения";
+"profile.appearance" = "Внешний вид";
+"profile.theme" = "Тема";
+"profile.theme.system" = "Системная";
+"profile.theme.light" = "Светлая";
+"profile.theme.dark" = "Тёмная";
+"profile.photo.permission.title" = "Доступ к фото";
+"profile.photo.permission.message" = "Для выбора фото профиля необходимо разрешить доступ к фото. Перейдите в настройки, чтобы предоставить доступ.";
+"profile.photo.permission.settings" = "Настройки";
+"profile.photo.permission.cancel" = "Отмена";
+

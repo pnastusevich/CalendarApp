@@ -1,0 +1,69 @@
+/* Calendar */
+"calendar.title" = "Workout Calendar";
+"calendar.today" = "Today";
+"calendar.select.day" = "Select a day to view workouts";
+
+/* Weekdays */
+"weekday.mon" = "Mon";
+"weekday.tue" = "Tue";
+"weekday.wed" = "Wed";
+"weekday.thu" = "Thu";
+"weekday.fri" = "Fri";
+"weekday.sat" = "Sat";
+"weekday.sun" = "Sun";
+
+/* Workout List */
+"workout.list.no.workouts" = "No workouts on this day";
+
+/* Workout Detail */
+"workout.detail.title" = "Workout Details";
+"workout.detail.statistics" = "Statistics";
+"workout.detail.distance" = "Distance";
+"workout.detail.distance.km" = "%.2f km";
+"workout.detail.duration" = "Duration";
+"workout.detail.temperature" = "Temperature";
+"workout.detail.temperature.celsius" = "%@°C";
+"workout.detail.humidity" = "Humidity";
+"workout.detail.humidity.percent" = "%@%%";
+"workout.detail.heart.rate.chart" = "Heart Rate Chart";
+"workout.detail.speed.chart" = "Speed Chart";
+"workout.detail.route" = "Route";
+"workout.detail.comment" = "Comment";
+"workout.detail.error" = "Error: %@";
+"workout.detail.heart.rate.max" = "Max: %d bpm";
+"workout.detail.heart.rate.min" = "Min: %d bpm";
+"workout.detail.heart.rate.avg" = "Avg: %d bpm";
+"workout.detail.speed.max" = "Max: %.1f km/h";
+"workout.detail.speed.min" = "Min: %.1f km/h";
+"workout.detail.speed.avg" = "Avg: %.1f km/h";
+
+/* Onboarding */
+"onboarding.back" = "Back";
+"onboarding.next" = "Next";
+"onboarding.start" = "Start";
+"onboarding.slide1.title" = "Workout Calendar";
+"onboarding.slide1.description" = "View all your workouts in a convenient calendar format. Days with workouts are marked with special indicators.";
+"onboarding.slide2.title" = "Detailed Statistics";
+"onboarding.slide2.description" = "Track detailed information about each workout: distance, duration, heart rate and much more.";
+
+/* Map */
+"map.start" = "Start";
+"map.finish" = "Finish";
+
+/* Profile */
+"profile.title" = "Profile";
+"profile.personal.info" = "Personal Information";
+"profile.name" = "Name";
+"profile.email" = "Email";
+"profile.phone" = "Phone";
+"profile.date.of.birth" = "Date of Birth";
+"profile.appearance" = "Appearance";
+"profile.theme" = "Theme";
+"profile.theme.system" = "System";
+"profile.theme.light" = "Light";
+"profile.theme.dark" = "Dark";
+"profile.photo.permission.title" = "Photo Access";
+"profile.photo.permission.message" = "To select a profile photo, you need to grant access to photos. Go to Settings to provide access.";
+"profile.photo.permission.settings" = "Settings";
+"profile.photo.permission.cancel" = "Cancel";
+
